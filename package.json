@@ -39,7 +39,6 @@
     "shelljs": "^0.2.6"
   },
   "scripts": {
-    "postinstall": "bower install",
     "start": "http-server -p 8000",
     "update-webdriver": "webdriver-manager update",
     "test": "grunt karma:unit",
